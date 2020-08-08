@@ -1,7 +1,7 @@
 To test the website you can try to access
 
-http://backspacekomputer.000webhostapp.com/admin
-email: guest@backspacekomputer.com
+https://backspace-komputer.farrelanshary.my.id/admin <br>
+email: guest@backspacekomputer.com <br>
 password: admin123
 
 
