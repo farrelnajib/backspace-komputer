@@ -1,6 +1,6 @@
 To test the website you can try to access
 
-https://backspace-komputer.farrelanshary.my.id/admin <br>
+https://backspace-komputer.farrelanshary.me/admin <br>
 email: guest@backspacekomputer.com <br>
 password: admin123
 
